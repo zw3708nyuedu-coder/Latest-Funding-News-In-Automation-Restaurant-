@@ -1,5 +1,5 @@
-# Latest-Funding-News-In-Automation-Restaurant-
-# Restaurant Automation Funding Scraper
+# Latest-Funding-News-In-Automation- F&B-
+# F&B Automation Funding Scraper
 
 This small tool searches Google (via **Programmable Search Engine/CSE**) for **latest funding** news in **restaurant automation / food robotics**, then visits each article and tries to extract:
 - Company (heuristic from title)
